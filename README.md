@@ -3,4 +3,6 @@
 This is a project that requires html, css, and javascript. 
 It is created using array, calling id, using query selector, adding eventlistener, and displaying text content.
 Upon click, the color will change and the motivation will change.
-This can be viewed [here](https://mariamopeyemi.github.io/Color-Motivation-Flip/)
+This can be viewed here
+
+https://color-quote-flip.netlify.app/
